@@ -16,7 +16,11 @@ function App() {
           rel="noopener noreferrer"
         >
           Learn React
+<<<<<<< HEAD
           branch-1
+=======
+          brach-2
+>>>>>>> cb94476cf5c76c7a666cae8d78447f5fec317a6c
         </a>
       </header>
     </div>
